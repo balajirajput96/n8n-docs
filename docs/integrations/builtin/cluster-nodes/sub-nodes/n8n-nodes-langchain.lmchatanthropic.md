@@ -39,7 +39,7 @@ You can find authentication information for this node [here](../../credentials/a
 	* **Claude**
 	* **Claude Instant**
 
-Learn more in the [Anthropic model documentation](https://docs.anthropic.com/claude/reference/selecting-a-model).
+Learn more in the [Anthropic model documentation](https://platform.claude.com/docs/en/about-claude/models/overview).
 
 ## Node options <a href="#node-options" id="node-options"></a>
 

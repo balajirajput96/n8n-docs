@@ -29,7 +29,7 @@ n8n offers two different deployment methods. [n8n Cloud](use-n8n-cloud/README.md
 
 ### Compare deployment options
 
-Below is a high-level overview of each option. If you're still deciding, look at [Choose your n8n](https://n8n.gitbook.io/n8n-docs-next/fTXFsp54tRnnn2McXCeU/choose-how-to-use-n8n) for more guidance.
+Below is a high-level overview of each option. If you're still deciding, look at [Choose your n8n](https://docs.n8n.io/) for more guidance.
 
 #### Use n8n Cloud
 
